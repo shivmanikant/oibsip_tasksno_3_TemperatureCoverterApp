@@ -1,4 +1,4 @@
-# Repository Name: Temperature Master: oibsip_tasksno_3_TemperatureCoverterApp
+# Temperature Coverter App
 
 # Description:
 Welcome to the Temperature Master repository, where we've harnessed the power of technology to create an elegant and dynamic temperature converter website as part of the Oasis InfoByte internship task. 🌡️🌐
